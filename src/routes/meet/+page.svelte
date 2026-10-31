@@ -8,63 +8,59 @@
   <Person src="/people/mscho.jpg" name="Matthew Schoifet" alt="Schozus" /> 
   <Person src="/people/AkashS.jpeg" name="Akash" alt="Akash Shah" /> <!--add-->
   <Person src="/people/SharonK.jpeg" name="Sharon" alt="Sharon" /> <!--add-->
-  <Person src="/people/BenMentor.jpeg" name="Ben" alt="Ben" /> <!--add-->
+  <!--<Person src="/people/BenMentor.jpeg" name="Ben" alt="Ben" />-->
   <Person src="/people/MikeD.jpeg" name="Mike" alt="Mike" /> 
 </div>
 <h1>Programming</h1>
 <div class="team-grid">
-  <Person src="/people/CharlieH.webp" name="Charlie" alt="Charlie" /> 
-  <Person src="/people/OliverK.jpg" name="Oliver" alt="Oliver" /> 
-  <Person src="/people/Arda.webp" name="Arda" alt="Arda" />
-  <Person src="/people/IanJ.jpg" alt="Ian" name="Ian" /> 
-
+  <Person src="/people/OliverK.webp" name="Oliver" alt="Oliver" /> 
   <Person src="/people/SophieG.webp" name="Sophie" alt="Sophie" />
   <Person src="/people/AsaS.webp" name="Asa" alt="Asa" />
-  <Person src="/people/MaxamG.png" name="Maxam" alt="Maxam" /> 
+  <Person src="/people/MaxamG.webp" name="Maxam" alt="Maxam" />
 
+  <Person src="/people/NedD.webp" name="Ned" alt="Ned" />
+  <Person src="/people/AngelaC.webp" name="Angela" alt="Angela"/>
+  <Person src="/people/EthanK.webp" name="Ethan" alt="Ethan"/>
+  <Person src="/people/Arda.webp" name="Arda" alt="Arda" />
 </div>
 
-<h1>Mechanical</h1>
+<h1>CAD/Mechanical</h1>
 
 <div class="team-grid">
 
-  <Person src="/people/JuliaB.webp" name="Julia" alt="Julia"/>
-  <Person src="/people/LandonC.webp" name="Landon" alt="Landon" /> 
-  <Person src="/people/JackW.webp" name="Jack" alt="Jack" /> 
   <Person src="/people/PeterH.webp" name="Peter" alt="Peter"/>
-
-  <Person src="/people/MilesS.webp" name="Miles" alt="Miles"/> 
-  <Person src="/people/Lucy.webp" name="Lucy" alt="Lucy" /> 
   <Person src="/people/Oona.webp" name="Oona" alt="Oona" /> 
-  <Person src="/people/Leila.jpg" name="Leila" alt="Leila" /> 
+  <Person src="/people/Leila.webp" name="Leila" alt="Leila" /> 
+  <Person src="/people/CharlieN.webp" name="Charlie" alt="Charlie"/>
 
-  <Person src="/people/StevenN.jpg" name="Steven" alt="Steven"/> 
-  <Person src="/people/CharlieN.webp" name="Charlie" alt="Charlie"/> 
-  <Person src="/people/BennetM.webp" name="Bennett" alt="Bennett"/> 
   <Person src="/people/Elliot.webp" name="Elliot" alt="Elliott"/> 
+  <Person src="/people/Lucy.webp" name="Lucy" alt="Lucy" /> 
+  <Person src="/people/StevenN.webp" name="Steven" alt="Steven"/> 
+  <Person src="/people/AnandP.webp" name="Anand" alt="Anand"/>
 
-  <Person src="/people/ZoyaT.webp" name="Zoya" alt="Zoya" />
-  <Person src="/people/Benjamin.webp" name="Ben" alt="Ben"/> 
+  <Person src="/people/KyleA.webp" name="Kyle" alt="Kyle"/> 
   <Person src="/people/EzraS.webp" name="Ezra" alt="Ezra"/> 
-  <Person src="/people/KyleA.jpg" name="Kyle" alt="Kyle"/> 
-
+  <Person src="/people/Benjamin.webp" name="Ben" alt="Ben"/> 
   <Person src="/people/OzzyL.webp" name="Ozzy" alt="Ozzy"/>
 
-</div>
+  <Person src="/people/EvaE.webp" name="Eva" alt="Eva"/>
+  <Person src="/people/MaxV.webp" name="MaxV" alt="MaxV"/>
+  <Person src="/people/NoraH.webp" name="Nora" alt="Nora"/>
+  <Person src="/people/BeckettG.webp" name="Beckett" alt="Beckett" /> 
 
-<h1>Field</h1>
-<div class="team-grid">
-  <Person src="/people/ClementineL.webp" name="Clementine" alt="Clementine"/> <!--add-->
-  <Person src="/people/MilesM.webp" name="Miles" alt="Miles"/> <!--add-->
-  <Person src="/people/FelixL.webp" name="Felix" alt="Felix" /> <!--add-->
-  <Person src="/people/RyanW.webp" name="Ryan" alt="Ryan"/> 
+  
+  <Person src="/people/WilliamM.webp" name="William" alt="William"/>
+  <Person src="/people/DanielZ.webp" name="Daniel" alt="Daniel"/>
+  <Person src="/people/SachinT.webp" name="Sachin" alt="Sachin"/>
+  <Person src="/people/RyanW.webp" name="Ryan" alt="Ryan"/>
 </div>
 
 
 <h1>Drive Team</h1>
 <div class="team-grid">
-  <Person src="/people/LunaS.webp" name="Luna" alt="Luna"/>
   <Person src="/people/VioletK.webp" name="Violet" alt="Violet"/>
+  <Person src="/people/ClementineL.webp" name="Clementine" alt="Clementine"/> <!--add-->
+  <Person src="/people/BennetM.webp" name="Bennett" alt="Bennett"/> 
 </div>
 
 <Spacer />
