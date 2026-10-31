@@ -16,7 +16,8 @@
 			<div class="dropdown">
 				<button class="dropbtn">Past Seasons</button>
 				<div class="dropdown-content">
-				<a href="/seasons/2026">Current</a>
+				<a href="/seasons/2027">Current</a>
+				<a href="/seasons/2026">2026</a>
 				  <a href="/seasons/2025">2025</a>
 				  <a href="/seasons/2024">2024</a>
 				  <a href="/seasons/2023">2023</a>
@@ -32,7 +33,7 @@
 				>
 				<div id="dropdown-content">
 					<a href="/first">What is FIRST?</a><a href="/about">About our team</a
-					><a href="/seasons">Past seasons</a><a href="/sponsors">Sponsors</a><a
+					><a href="/seasons">Seasons</a><a href="/sponsors">Sponsors</a><a
 						href="/meet">Meet the team</a
 					><a href="/contact">Contact us</a>
 				</div>

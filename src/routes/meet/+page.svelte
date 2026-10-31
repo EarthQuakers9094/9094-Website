@@ -16,7 +16,7 @@
 <h1>Drive Team</h1>
 <div class="team-grid">
   <Person src="/people/VioletK.webp" name="Violet" alt="Violet"/>
-  <Person src="/people/ClementineL.webp" name="Clementine" alt="Clementine"/> <!--add-->
+  <Person src="/people/ClementineL.webp" name="Clem" alt="Clem"/> 
   <Person src="/people/BennetM.webp" name="Bennett" alt="Bennett"/> 
 </div>
 <br>
