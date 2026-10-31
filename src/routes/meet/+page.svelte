@@ -11,6 +11,16 @@
   <!--<Person src="/people/BenMentor.jpeg" name="Ben" alt="Ben" />-->
   <Person src="/people/MikeD.jpeg" name="Mike" alt="Mike" /> 
 </div>
+<br>
+
+<h1>Drive Team</h1>
+<div class="team-grid">
+  <Person src="/people/VioletK.webp" name="Violet" alt="Violet"/>
+  <Person src="/people/ClementineL.webp" name="Clementine" alt="Clementine"/> <!--add-->
+  <Person src="/people/BennetM.webp" name="Bennett" alt="Bennett"/> 
+</div>
+<br>
+
 <h1>Programming</h1>
 <div class="team-grid">
   <Person src="/people/OliverK.webp" name="Oliver" alt="Oliver" /> 
@@ -23,9 +33,9 @@
   <Person src="/people/EthanK.webp" name="Ethan" alt="Ethan"/>
   <Person src="/people/Arda.webp" name="Arda" alt="Arda" />
 </div>
+<br>
 
 <h1>CAD/Mechanical</h1>
-
 <div class="team-grid">
 
   <Person src="/people/PeterH.webp" name="Peter" alt="Peter"/>
@@ -44,7 +54,7 @@
   <Person src="/people/OzzyL.webp" name="Ozzy" alt="Ozzy"/>
 
   <Person src="/people/EvaE.webp" name="Eva" alt="Eva"/>
-  <Person src="/people/MaxV.webp" name="MaxV" alt="MaxV"/>
+  <Person src="/people/MaxV.webp" name="Max" alt="Max"/>
   <Person src="/people/NoraH.webp" name="Nora" alt="Nora"/>
   <Person src="/people/BeckettG.webp" name="Beckett" alt="Beckett" /> 
 
@@ -55,13 +65,6 @@
   <Person src="/people/RyanW.webp" name="Ryan" alt="Ryan"/>
 </div>
 
-
-<h1>Drive Team</h1>
-<div class="team-grid">
-  <Person src="/people/VioletK.webp" name="Violet" alt="Violet"/>
-  <Person src="/people/ClementineL.webp" name="Clementine" alt="Clementine"/> <!--add-->
-  <Person src="/people/BennetM.webp" name="Bennett" alt="Bennett"/> 
-</div>
 
 <Spacer />
 
