@@ -21,13 +21,19 @@
 </div>
 
 <h2>District Events:</h2>
-	<ul>Seneca District Event: not yet attended</ul>
-	<ul>Philadelphia District Event: not yet attended</ul>
+	<ul>Seneca District Event: 3rd place</ul>
+	<ul>Awards: District Event Finalist, Autonomous</ul>
+
+	<ul>Philadelphia District Event: 2nd place</ul>
+	<ul>Awards: Excellence in Engineering</ul>
+
 	<br>
 <h2>District Championship:</h2>
-	<ul>Midatlantic District Championship: not yet qualified</ul>
+	<ul>Midatlantic District Championship: 11th place</ul>
 
-<br>
+<h2>Worlds!!</h2>
+	<ul>Daly: 40th place</ul>
+	<ul>Our first time attending!</ul>
 
 <h2>Our Robot</h2>
 <img class="general-image" src="/Robot2026.jpeg" alt="This year's robot. It's green and grey.">

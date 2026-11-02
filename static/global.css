@@ -46,8 +46,11 @@ iframe {
 	background-color: #2D3B7C;
 	color: white;
 	padding: 16px;
-	font-size: 16px;
 	border: none;
+	font-size: 1.3vw;
+  	width: 100%;
+	font-weight: normal;
+
   }
   
   .dropdown {
